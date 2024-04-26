@@ -10,8 +10,9 @@ Student Management System is a web-based application designed to streamline the 
 **3. if user entered invalid username or password user will redirect this page and user need login again using valid details**
 ![Screenshot 2024-04-26 123055](https://github.com/SurendraKondru/Student-Management-System/assets/146423581/7ddd3a9b-4406-4ba3-898e-cf5d2260b8ff)
 
-****4. after user login using valid details user will redirect to the Home page ************
+**4. after user login using valid details user will redirect to the Home page***
 ![Screenshot 2024-04-26 123120](https://github.com/SurendraKondru/Student-Management-System/assets/146423581/a8995cef-7362-4813-8921-983e50452d69)
+
 
 ![Screenshot 2024-04-26 123158](https://github.com/SurendraKondru/Student-Management-System/assets/146423581/e4d68b66-2fb8-4410-88b6-73ddca58ff24)
 
