@@ -5,5 +5,20 @@ Student Management System is a web-based application designed to streamline the 
 
 ![image](https://github.com/SurendraKondru/Student-Management-System/assets/146423581/761b84c8-4a9d-418a-961d-37f86ab6bc89)
 
+![Screenshot 2024-04-26 123055](https://github.com/SurendraKondru/Student-Management-System/assets/146423581/7ddd3a9b-4406-4ba3-898e-cf5d2260b8ff)
+
+![Screenshot 2024-04-26 123120](https://github.com/SurendraKondru/Student-Management-System/assets/146423581/a8995cef-7362-4813-8921-983e50452d69)
+
+![Screenshot 2024-04-26 123158](https://github.com/SurendraKondru/Student-Management-System/assets/146423581/e4d68b66-2fb8-4410-88b6-73ddca58ff24)
+
+![Screenshot 2024-04-26 123228](https://github.com/SurendraKondru/Student-Management-System/assets/146423581/78abb766-66ad-497a-8161-5949ec15e19e)
+
+![Screenshot 2024-04-26 123245](https://github.com/SurendraKondru/Student-Management-System/assets/146423581/1cdfba2d-a689-4d70-851d-55f1c30e2c4e)
+
+
+
+
+
+
 
 
