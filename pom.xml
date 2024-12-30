@@ -6,7 +6,7 @@
 
     <groupId>com.stmgmt</groupId>
     <artifactId>Student-management-system</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0-RELEASE</version>
     <name>Student-management-system</name>
     <packaging>war</packaging>
 
